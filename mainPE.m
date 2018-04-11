@@ -1,4 +1,4 @@
-% mainPE - main functon for simulation.
+% mainPE - main function for simulation.
 % usage: mainPE(configMfile)
 
 % For questions/comments contact: 
