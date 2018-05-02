@@ -1,0 +1,5 @@
+The repository includes a reference Matlab code for a mobile WiFi client receiver, Kalman-Filter-based positioning engine (PE) and a database of time-delay measurements of an indoor environment. 
+The database includes both real-measured data, and simulated time-delay data, as well as ground-truth client position information, which can be used for validation and performance analysis. The PE code is designed to process the database data format and produce estimates of the mobile WiFi receiver position within the indoor venue. 
+The database may be used for the development, validation and performance analysis of additional positioning engines. 
+This kind of WiFi client PE enables an unlimited number of clients to estimate the position and navigate within the Wi-Fi network coverage area. Hence, it enables so-called "Wi-Fi Scalable Location". 
+A *.pdf whitepaper is included in the repository and explains the functionality and usage of the code and database.
